@@ -4,7 +4,7 @@ email: zazoun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Test Laure
 baseurl: "/zazoun.github.io/" # the subpath of your site, e.g. /blog/
-url: "http://zazoun.github.io/" # the base hostname & protocol for your site
+url: "https://zazoun.github.io/" # the base hostname & protocol for your site
 twitter_username: Zazoun
 github_username:  zazoun
 
