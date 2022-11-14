@@ -3,7 +3,7 @@ title: Test Laure
 email: zazoun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Test Laure
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://zazoun.github.io/" # the base hostname & protocol for your site
 twitter_username: Zazoun
 github_username:  zazoun
@@ -13,3 +13,4 @@ plugins:
 
 # Build settings
 markdown: kramdown
+gem "github-pages", group: :jekyll_plugins
